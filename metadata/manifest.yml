@@ -1,0 +1,22 @@
+Name: Seaside
+Cartridge-Short-Name: Seaside
+Cartridge-Version: '1.0'
+Compatible-Versions:
+  - '1.0'
+Cartridge-Vendor: RedHat
+Display-Name: Seaside 3
+Description: "Seaside (based on smalltalk) provides a layered set of abstractions over HTTP and HTML that let you build highly interactive web applications quickly, reusably and maintainably."
+Version: '3.0.7'
+Versions:
+  - '3.0.7'
+License: 'MIT License'
+License-Url: http://www.seaside.st/about/license
+Vendor: Seaside
+Categories:
+  - web_framework
+  - smalltalk
+Website: http://www.seaside.st/
+Help-Topics:
+  "Developer Center": https://openshift.redhat.com/community/developers
+Cart-Data:
+
